@@ -5,12 +5,92 @@
     <link>https://example.com/post/</link>
       <atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 18 Mar 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
       <link>https://example.com/post/</link>
     </image>
+    
+    <item>
+      <title>Дни недели во французском языке. Пост о прошедшей неделе.</title>
+      <link>https://example.com/post/week/</link>
+      <pubDate>Sat, 18 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/week/</guid>
+      <description>&lt;p&gt;В этот понедельник (13-03-2023) на уроке французского языка разбирали лексику на тему &lt;em&gt;дни недели&lt;/em&gt;. Дни недели во французском языке употребляются без артикля:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;lundi&lt;/strong&gt; - понедельник&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;mardi&lt;/strong&gt; - вторник&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;mercredi&lt;/strong&gt; - среда&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;jeudi&lt;/strong&gt; - четверг&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;vendredi&lt;/strong&gt; - пятница&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;samedi&lt;/strong&gt; - суббота&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;dimanche&lt;/strong&gt; - воскресенье&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Пример: &lt;strong&gt;Elle vient chez moi dimanche&lt;/strong&gt; - Она приезжает ко мне в воскресенье.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Управлениями версиями с помощью Git</title>
+      <link>https://example.com/post/git/</link>
+      <pubDate>Sat, 18 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/git/</guid>
+      <description>&lt;p&gt;Системы контроля версий (VSC, version control systems) используются в случаях, когда несколько человек работают на одним проектом. Проект хранится в удаленном или локальном репозитории, и каждому участнику настроен доступ к нему. Система котроля версий ползволяет фиксировать изменения, совмещать изменения, сделанные разными участниками проекта, а также производить откат к более ранней стабильной версии.&lt;/p&gt;
+&lt;p&gt;В данной статье будут описаны первые шаги для начала работы с одной из систем контроля версий &amp;ndash; &lt;code&gt;Git&lt;/code&gt;. Примеры показаны на &lt;em&gt;Fedora Linux&lt;/em&gt; в командной строке.&lt;/p&gt;
+&lt;h2 id=&#34;базовая-настройка-и-основные-команды&#34;&gt;Базовая настройка и основные команды&lt;/h2&gt;
+&lt;p&gt;Чтобы начать работать &lt;code&gt;git&lt;/code&gt; установим соответствующий пакет:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;sudo dnf install git-all
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;По желанию можно проверить версию: &lt;code&gt;git --version&lt;/code&gt;, версия автора - 2.39.2. Теперь можно спокойно пользоваться всеми возможностями &lt;code&gt;git&lt;/code&gt;, но пока локально.&lt;/p&gt;
+&lt;p&gt;Основные команды, которые пригодятся в работе:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Создание репозитория в текущем каталоге&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git init
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;Получение обновления из текущего дерева из центрального репозитория&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git pull
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;Отправка всех изменений локального дерева в цетральный репозиторий.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git push
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;Получение информации обо всех произведенных изменениях в текущем каталоге&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git status
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ol start=&#34;5&#34;&gt;
+&lt;li&gt;Просмотр текущих измененний&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git diff
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ol start=&#34;6&#34;&gt;
+&lt;li&gt;Команды по сохранению изменений в центральный репозиторий:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Добавить все измененные и/или созданные файлы/каталоги&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git  add . 
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ul&gt;
+&lt;li&gt;Добавить отдельный файл&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git add &amp;lt;имя файла&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ul&gt;
+&lt;li&gt;Удалить файлы из индекса репозитория (файл останется в локальном репозитории)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git rm &amp;lt;имя файла&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ul&gt;
+&lt;li&gt;Добавить все изменения в коммит&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git commit -am &amp;#34;&amp;lt;описание изменений&amp;gt;&amp;#34;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ul&gt;
+&lt;li&gt;Загрузка измененний в центральный репозиторий&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git push
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Или можно сделать коммит в конкретную ветку&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git push origin &amp;lt;имя ветки&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Основы работы с &lt;code&gt;git&lt;/code&gt; описаны. Впоследствии можно связать репозиторий с каким-то веб-хостингом, например &lt;em&gt;Github&lt;/em&gt;, чтобы репозиотрий хранился удаленно. Дерзай!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
@@ -196,7 +276,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-652189743&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-712564398&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -206,7 +286,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-652189743&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-712564398&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
