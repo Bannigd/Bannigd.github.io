@@ -5,7 +5,7 @@
     <link>https://example.com/project/</link>
       <atom:link href="https://example.com/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 15 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
@@ -13,24 +13,1903 @@
     </image>
     
     <item>
-      <title>Example Project</title>
-      <link>https://example.com/project/example/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/example/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+      <title>Курс Stepik &#34;Основы кибербезопасности&#34;</title>
+      <link>https://example.com/project/stepik/</link>
+      <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/stepik/</guid>
+      <description>&lt;p&gt;На этой странице можно увидеть мое решение курса на Stepik &amp;ldquo;Основы кибербезопасности&amp;rdquo;.
+Запись выполнения доступна на видео-хостинге YouTube:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtu.be/BDMPMtlGjQU&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;часть 1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtu.be/Psd-jNlC1W0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;часть 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtu.be/SgyvMUI0B3s&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;часть 3&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;По прохождению курса, к сожалению, &lt;strong&gt;не выдается сертификат&lt;/strong&gt;, подтверждением
+прохождения следующий &lt;a href=&#34;#figure-result&#34;&gt;скриншот&lt;/a&gt;:&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-result&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/stepik/result_hufd39974eb892c349d7d938465d548358_50614_953a085a4c5e81b320d5fd12b8653158.webp 400w,
+               /project/stepik/result_hufd39974eb892c349d7d938465d548358_50614_1f4b387afe07b58107e1b1c9e89ae747.webp 760w,
+               /project/stepik/result_hufd39974eb892c349d7d938465d548358_50614_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/stepik/result_hufd39974eb892c349d7d938465d548358_50614_953a085a4c5e81b320d5fd12b8653158.webp&#34;
+               width=&#34;720&#34;
+               height=&#34;577&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+&lt;details class=&#34;toc-inpage d-print-none  &#34; open&gt;
+  &lt;summary class=&#34;font-weight-bold&#34;&gt;Table of Contents&lt;/summary&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#первый-модуль-безопасность-в-сети&#34;&gt;Первый модуль: &amp;ldquo;Безопасность в сети&amp;rdquo;&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#как-работает-интернет-базовые-сетевые-протоколы&#34;&gt;Как работает интернет: базовые сетевые протоколы&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#персонализация-сети&#34;&gt;Персонализация сети&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#браузер-tor-анонимизация&#34;&gt;Браузер TOR. Анонимизация&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#беспроводные-сети-wi-fi&#34;&gt;Беспроводные сети Wi-Fi.&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#второй-модуль-защита-пктелефона&#34;&gt;Второй модуль &amp;ldquo;Защита ПК/Телефона&amp;rdquo;&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#шифрование-диска&#34;&gt;Шифрование диска&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#пароли&#34;&gt;Пароли&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#фишинг&#34;&gt;Фишинг&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#вирусы-примеры&#34;&gt;Вирусы. Примеры&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#безопасность-мессенджеров&#34;&gt;Безопасность мессенджеров&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#третий-модуль-криптография-на-практике&#34;&gt;Третий модуль &amp;ldquo;Криптография на практике&amp;rdquo;&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#введение-в-криптографию&#34;&gt;Введение в криптографию&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#цифровая-подпись&#34;&gt;Цифровая подпись&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#электронные-платежи&#34;&gt;Электронные платежи&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#блокчейн&#34;&gt;Блокчейн&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+&lt;/details&gt;
+
+&lt;h2 id=&#34;первый-модуль-безопасность-в-сети&#34;&gt;Первый модуль: &amp;ldquo;Безопасность в сети&amp;rdquo;&lt;/h2&gt;
+&lt;h3 id=&#34;как-работает-интернет-базовые-сетевые-протоколы&#34;&gt;Как работает интернет: базовые сетевые протоколы&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#figure-fig1&#34;&gt;Вопрос 1&lt;/a&gt;. Выберите протокол прикладного уровня:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ответ: &lt;em&gt;HTTPS&lt;/em&gt;.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-fig1&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/stepik/image_part1/image1_hu991a29e38f52a408a1448e9016c61a82_32743_78592ce9dce0c424b3ca124ea7f562c7.webp 400w,
+               /project/stepik/image_part1/image1_hu991a29e38f52a408a1448e9016c61a82_32743_33b889506074c5710f3b7102271dda69.webp 760w,
+               /project/stepik/image_part1/image1_hu991a29e38f52a408a1448e9016c61a82_32743_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/stepik/image_part1/image1_hu991a29e38f52a408a1448e9016c61a82_32743_78592ce9dce0c424b3ca124ea7f562c7.webp&#34;
+               width=&#34;718&#34;
+               height=&#34;599&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#figure-fig2&#34;&gt;Вопрос 2&lt;/a&gt;. На каком уровне работает протокол TCP?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ответ: &lt;em&gt;Транспортном&lt;/em&gt;.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-fig2&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/stepik/image_part1/image2_hueaa3db62d203415c29e0d54d81dd3492_36747_078c51525e4e007c27f11f7086cd5b5d.webp 400w,
+               /project/stepik/image_part1/image2_hueaa3db62d203415c29e0d54d81dd3492_36747_1a507959ea0faadece8a6413a264f65f.webp 760w,
+               /project/stepik/image_part1/image2_hueaa3db62d203415c29e0d54d81dd3492_36747_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/stepik/image_part1/image2_hueaa3db62d203415c29e0d54d81dd3492_36747_078c51525e4e007c27f11f7086cd5b5d.webp&#34;
+               width=&#34;520&#34;
+               height=&#34;578&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#figure-fig3&#34;&gt;Вопрос 3&lt;/a&gt;. Выберите все корректные адреса IPv4.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ответ: &lt;em&gt;90.11.90.22 и 25.198.0.15&lt;/em&gt;.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-fig3&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/stepik/image_part1/image3_hu65f69e1f5196501a120076bf19831505_60187_f347ad123dcbf42e927fc086ec1627cb.webp 400w,
+               /project/stepik/image_part1/image3_hu65f69e1f5196501a120076bf19831505_60187_41d28c445293a309757d9d70da45e7a4.webp 760w,
+               /project/stepik/image_part1/image3_hu65f69e1f5196501a120076bf19831505_60187_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/stepik/image_part1/image3_hu65f69e1f5196501a120076bf19831505_60187_f347ad123dcbf42e927fc086ec1627cb.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;485&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#figure-fig4&#34;&gt;Вопрос 4&lt;/a&gt;. DNS сервер&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ответ: &lt;em&gt;сопоставляет IP адреса доменным именам&lt;/em&gt;.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-fig4&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/stepik/image_part1/image4_hubb7771e2f98a30d232d86bbf43fc8e47_46093_1158f4dcb066d11d70bae64b35a75659.webp 400w,
+               /project/stepik/image_part1/image4_hubb7771e2f98a30d232d86bbf43fc8e47_46093_c01631ad2ae28621fc835239b6cb4935.webp 760w,
+               /project/stepik/image_part1/image4_hubb7771e2f98a30d232d86bbf43fc8e47_46093_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/stepik/image_part1/image4_hubb7771e2f98a30d232d86bbf43fc8e47_46093_1158f4dcb066d11d70bae64b35a75659.webp&#34;
+               width=&#34;522&#34;
+               height=&#34;576&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#figure-fig5&#34;&gt;Вопрос 5&lt;/a&gt;. Выберите корректную последовательность протоколов в модели TCP/IP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ответ: &lt;em&gt;прикладной &amp;ndash; транспортный &amp;ndash; сетевой &amp;ndash; канальный&lt;/em&gt;.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-fig5&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/stepik/image_part1/image5_hucf6d8767e0e316a596657540751270f4_53637_fc305ebd626a641475223ad47bda2b14.webp 400w,
+               /project/stepik/image_part1/image5_hucf6d8767e0e316a596657540751270f4_53637_ebe602508a2afd6866deca86fcc36e6c.webp 760w,
+               /project/stepik/image_part1/image5_hucf6d8767e0e316a596657540751270f4_53637_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/stepik/image_part1/image5_hucf6d8767e0e316a596657540751270f4_53637_fc305ebd626a641475223ad47bda2b14.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;561&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#figure-fig6&#34;&gt;Вопрос 6&lt;/a&gt;. Протокол http предполагает&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ответ: &lt;em&gt;передачу данных между клиентом и сервером в открытом виде&lt;/em&gt;.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-fig6&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/stepik/image_part1/image6_hub90065e93778bebc78803796c4fdfbdc_41428_e8bda47cc2d3f78d7d9e8349cf4a258f.webp 400w,
+               /project/stepik/image_part1/image6_hub90065e93778bebc78803796c4fdfbdc_41428_e2259bc5e96333c9d772eabe8ebfbab0.webp 760w,
+               /project/stepik/image_part1/image6_hub90065e93778bebc78803796c4fdfbdc_41428_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/stepik/image_part1/image6_hub90065e93778bebc78803796c4fdfbdc_41428_e8bda47cc2d3f78d7d9e8349cf4a258f.webp&#34;
+               width=&#34;691&#34;
+               height=&#34;512&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#figure-fig7&#34;&gt;Вопрос 7&lt;/a&gt;. Протокол https состоит из&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ответ: &lt;em&gt;двух фаз: рукопожатия и передачи данных&lt;/em&gt;.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-fig7&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/stepik/image_part1/image7_huc7846dad4213ed6a873db197a531ad6a_57836_433b46ec7c5c61f64c440f4876c9b572.webp 400w,
+               /project/stepik/image_part1/image7_huc7846dad4213ed6a873db197a531ad6a_57836_b9cc1abbbcd032fa1fd286c4fab9bcbe.webp 760w,
+               /project/stepik/image_part1/image7_huc7846dad4213ed6a873db197a531ad6a_57836_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/stepik/image_part1/image7_huc7846dad4213ed6a873db197a531ad6a_57836_433b46ec7c5c61f64c440f4876c9b572.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;474&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#figure-fig8&#34;&gt;Вопрос 8&lt;/a&gt;. Версия протокола TLS определяется&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ответ: &lt;em&gt;и клиентом, и сервером в процессе &amp;ldquo;переговоров&amp;rdquo;&lt;/em&gt;.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-fig8&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/stepik/image_part1/image8_hucd9842f459fa52faf90fab34ff8d802c_41963_9998c4a91dba816f239c92b936f8b256.webp 400w,
+               /project/stepik/image_part1/image8_hucd9842f459fa52faf90fab34ff8d802c_41963_8a0e893cb05497a99c06ef6bde78a567.webp 760w,
+               /project/stepik/image_part1/image8_hucd9842f459fa52faf90fab34ff8d802c_41963_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/stepik/image_part1/image8_hucd9842f459fa52faf90fab34ff8d802c_41963_9998c4a91dba816f239c92b936f8b256.webp&#34;
+               width=&#34;555&#34;
+               height=&#34;589&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#figure-fig9&#34;&gt;Вопрос 9&lt;/a&gt;. В фазе &amp;ldquo;рукопожатия&amp;rdquo; протокола TLS не предусмотрено&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ответ: &lt;em&gt;шифрование данных&lt;/em&gt;.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-fig9&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/stepik/image_part1/image9_hudfc3482c3ab736f22fcc994389383654_56566_c0f0a17db4c8e4b837eaf9a5d647b851.webp 400w,
+               /project/stepik/image_part1/image9_hudfc3482c3ab736f22fcc994389383654_56566_27291b482b774491d32972d61a3e5f51.webp 760w,
+               /project/stepik/image_part1/image9_hudfc3482c3ab736f22fcc994389383654_56566_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/stepik/image_part1/image9_hudfc3482c3ab736f22fcc994389383654_56566_c0f0a17db4c8e4b837eaf9a5d647b851.webp&#34;
+               width=&#34;744&#34;
+               height=&#34;574&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;h3 id=&#34;персонализация-сети&#34;&gt;Персонализация сети&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#figure-fig10&#34;&gt;Вопрос 1&lt;/a&gt;. Куки хранят:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ответ: &lt;em&gt;идентификатор пользователя и id сессии&lt;/em&gt;&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-fig10&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/stepik/image_part1/image10_hu4850c5aeb45864fbc0963ff2dec2eb42_59232_4c5350e29c154758d4ef21305de6f6fa.webp 400w,
+               /project/stepik/image_part1/image10_hu4850c5aeb45864fbc0963ff2dec2eb42_59232_7c6660f0361887be0e33d8c7d2ddd36c.webp 760w,
+               /project/stepik/image_part1/image10_hu4850c5aeb45864fbc0963ff2dec2eb42_59232_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/stepik/image_part1/image10_hu4850c5aeb45864fbc0963ff2dec2eb42_59232_4c5350e29c154758d4ef21305de6f6fa.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;485&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#figure-fig11&#34;&gt;Вопрос 2&lt;/a&gt;. Куки не используются для&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ответ: &lt;em&gt;улучшения надежности соединения&lt;/em&gt;&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-fig11&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/stepik/image_part1/image11_huc79cef75e6c9e20b009e19ed1ed0f1ed_51119_9220e2ee05caeed5097f2b24b3bd5c0c.webp 400w,
+               /project/stepik/image_part1/image11_huc79cef75e6c9e20b009e19ed1ed0f1ed_51119_75fa80e4d8403e05834e9b80faf34953.webp 760w,
+               /project/stepik/image_part1/image11_huc79cef75e6c9e20b009e19ed1ed0f1ed_51119_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/stepik/image_part1/image11_huc79cef75e6c9e20b009e19ed1ed0f1ed_51119_9220e2ee05caeed5097f2b24b3bd5c0c.webp&#34;
+               width=&#34;494&#34;
+               height=&#34;614&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#figure-fig12&#34;&gt;Вопрос 3&lt;/a&gt;. Куки генерируются&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ответ: &lt;em&gt;сервером&lt;/em&gt;&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-fig12&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/stepik/image_part1/image12_hu70957e98bd84e008c14040e879653c05_29605_6155b2334e34017cb1a3bb24cd2295ad.webp 400w,
+               /project/stepik/image_part1/image12_hu70957e98bd84e008c14040e879653c05_29605_6de60e564d71ebda11f96e07956f4674.webp 760w,
+               /project/stepik/image_part1/image12_hu70957e98bd84e008c14040e879653c05_29605_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/stepik/image_part1/image12_hu70957e98bd84e008c14040e879653c05_29605_6155b2334e34017cb1a3bb24cd2295ad.webp&#34;
+               width=&#34;468&#34;
+               height=&#34;505&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#figure-fig13&#34;&gt;Вопрос 4&lt;/a&gt;. Сессионные куки хранятся в браузере?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ответ: &lt;em&gt;Да, на время пользования веб-сайтом&lt;/em&gt;&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-fig13&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/stepik/image_part1/image13_hue87d3d02f97976f2a7ca84819929ea9c_40851_39e7e0c9475ab71fac23cf619201c761.webp 400w,
+               /project/stepik/image_part1/image13_hue87d3d02f97976f2a7ca84819929ea9c_40851_bc831dae8d482894cd243095d7597e42.webp 760w,
+               /project/stepik/image_part1/image13_hue87d3d02f97976f2a7ca84819929ea9c_40851_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/stepik/image_part1/image13_hue87d3d02f97976f2a7ca84819929ea9c_40851_39e7e0c9475ab71fac23cf619201c761.webp&#34;
+               width=&#34;517&#34;
+               height=&#34;534&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;h3 id=&#34;браузер-tor-анонимизация&#34;&gt;Браузер TOR. Анонимизация&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#figure-fig14&#34;&gt;Вопрос 1&lt;/a&gt;. Сколько промежуточных узлов в луковой сети TOR?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ответ: &lt;em&gt;3&lt;/em&gt;&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-fig14&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/stepik/image_part1/image14_huac1962c63ae8a0185ad7ff2f84a946ec_32118_25fff7874b8ab4b2338a0890302edc03.webp 400w,
+               /project/stepik/image_part1/image14_huac1962c63ae8a0185ad7ff2f84a946ec_32118_2d530eb956d73dc7661bb6bff23768af.webp 760w,
+               /project/stepik/image_part1/image14_huac1962c63ae8a0185ad7ff2f84a946ec_32118_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/stepik/image_part1/image14_huac1962c63ae8a0185ad7ff2f84a946ec_32118_25fff7874b8ab4b2338a0890302edc03.webp&#34;
+               width=&#34;542&#34;
+               height=&#34;550&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#figure-fig15&#34;&gt;Вопрос 2&lt;/a&gt;. IP-адрес получателя известен&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ответ: &lt;em&gt;отправителю и выходному узлу&lt;/em&gt;&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-fig15&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/stepik/image_part1/image15_huf6a87ad241f56860939c13b21195f1cb_63940_e2761fa55a461ada88ee97fa36bc8f75.webp 400w,
+               /project/stepik/image_part1/image15_huf6a87ad241f56860939c13b21195f1cb_63940_da78679947f9f68cf30f2d5c34bd3a37.webp 760w,
+               /project/stepik/image_part1/image15_huf6a87ad241f56860939c13b21195f1cb_63940_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/stepik/image_part1/image15_huf6a87ad241f56860939c13b21195f1cb_63940_e2761fa55a461ada88ee97fa36bc8f75.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;490&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#figure-fig16&#34;&gt;Вопрос 3&lt;/a&gt;. Отправитель генерирует общий секретный ключ&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ответ: &lt;em&gt;с охранным, промежуточным и выходном узлом&lt;/em&gt;&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-fig16&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/stepik/image_part1/image16_hud42bf229660c535dfaa362902a6f6855_49521_445609acae537b82b34c4e6c56916c00.webp 400w,
+               /project/stepik/image_part1/image16_hud42bf229660c535dfaa362902a6f6855_49521_ef521d707a2e94885ecaf8b24b038546.webp 760w,
+               /project/stepik/image_part1/image16_hud42bf229660c535dfaa362902a6f6855_49521_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/stepik/image_part1/image16_hud42bf229660c535dfaa362902a6f6855_49521_445609acae537b82b34c4e6c56916c00.webp&#34;
+               width=&#34;538&#34;
+               height=&#34;581&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#figure-fig17&#34;&gt;Вопрос 4&lt;/a&gt;. Должен ли получатель использовать браузер Tor (или другой браузер, основанный на луковой маршрутизации) для успешного получения пакетов?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ответ: &lt;em&gt;Нет&lt;/em&gt;&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-fig17&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/stepik/image_part1/image17_hu11a7a78d1c285717521170c783979e96_48253_2d813cafd8686c592bb7687479e787f6.webp 400w,
+               /project/stepik/image_part1/image17_hu11a7a78d1c285717521170c783979e96_48253_849f3532e929475193b74113ebb17f18.webp 760w,
+               /project/stepik/image_part1/image17_hu11a7a78d1c285717521170c783979e96_48253_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/stepik/image_part1/image17_hu11a7a78d1c285717521170c783979e96_48253_2d813cafd8686c592bb7687479e787f6.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;324&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;h3 id=&#34;беспроводные-сети-wi-fi&#34;&gt;Беспроводные сети Wi-Fi.&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#figure-fig18&#34;&gt;Вопрос 1&lt;/a&gt;. Wi-Fi - это&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ответ: &lt;em&gt;технология беспроводной локальной сети, работающая в соответствии со стандартом IEEE 802.11&lt;/em&gt;&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-fig18&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/stepik/image_part1/image18_hu51fe0843938a713177f6a34b41fc7f63_55699_65dfa4de0475964f5737511870842100.webp 400w,
+               /project/stepik/image_part1/image18_hu51fe0843938a713177f6a34b41fc7f63_55699_5beae7f975a80f7913e226586ea61c69.webp 760w,
+               /project/stepik/image_part1/image18_hu51fe0843938a713177f6a34b41fc7f63_55699_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/stepik/image_part1/image18_hu51fe0843938a713177f6a34b41fc7f63_55699_65dfa4de0475964f5737511870842100.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#figure-fig19&#34;&gt;Вопрос 2&lt;/a&gt;. На каком уровне работает протокол WiFi?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ответ: &lt;em&gt;Канальном&lt;/em&gt;&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-fig19&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/stepik/image_part1/image19_hu6a672db33586489214e2a3bad17e2288_35580_dfe1b722e7ebebef98ccc656464b024f.webp 400w,
+               /project/stepik/image_part1/image19_hu6a672db33586489214e2a3bad17e2288_35580_6e9ae13a278dc7fe90303b6baf2b4839.webp 760w,
+               /project/stepik/image_part1/image19_hu6a672db33586489214e2a3bad17e2288_35580_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/stepik/image_part1/image19_hu6a672db33586489214e2a3bad17e2288_35580_dfe1b722e7ebebef98ccc656464b024f.webp&#34;
+               width=&#34;469&#34;
+               height=&#34;572&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#figure-fig20&#34;&gt;Вопрос 3&lt;/a&gt;. Небезопасный метод обеспечения шифрования и аутентификации в сети Wi-Fi&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ответ: &lt;em&gt;WEP&lt;/em&gt;&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-fig20&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/stepik/image_part1/image20_hu2798066a4e7b54b1ee305cfa33407da3_37832_158ba3b47252d27856d8607f2e418e8d.webp 400w,
+               /project/stepik/image_part1/image20_hu2798066a4e7b54b1ee305cfa33407da3_37832_b5bbbf3540637b5b94cb54ed76f4f3b1.webp 760w,
+               /project/stepik/image_part1/image20_hu2798066a4e7b54b1ee305cfa33407da3_37832_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/stepik/image_part1/image20_hu2798066a4e7b54b1ee305cfa33407da3_37832_158ba3b47252d27856d8607f2e418e8d.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;551&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#figure-fig21&#34;&gt;Вопрос 4&lt;/a&gt;. Данные между хостом сети (компьютером или смартфоном) и роутером&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ответ: &lt;em&gt;передаются в зашифрованном виде после аутентификации устройств&lt;/em&gt;&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-fig21&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/stepik/image_part1/image21_hu99c5cdb2ecc356421f192239a655cfdc_58766_bce3e7cd09102918d74281af8d25a889.webp 400w,
+               /project/stepik/image_part1/image21_hu99c5cdb2ecc356421f192239a655cfdc_58766_ba07e28d0b65108d5dcb67879c2a93bb.webp 760w,
+               /project/stepik/image_part1/image21_hu99c5cdb2ecc356421f192239a655cfdc_58766_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/stepik/image_part1/image21_hu99c5cdb2ecc356421f192239a655cfdc_58766_bce3e7cd09102918d74281af8d25a889.webp&#34;
+               width=&#34;743&#34;
+               height=&#34;573&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#figure-fig22&#34;&gt;Вопрос 5&lt;/a&gt;. Для домашней сети для аутентификации обычно используется метод&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ответ: &lt;em&gt;WPA2 Personal&lt;/em&gt;&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-fig22&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/stepik/image_part1/image22_hu0438edd1eab289eec50e897230a2b1bc_37996_f449736ea3bc9f5a76cdca4bf276fdda.webp 400w,
+               /project/stepik/image_part1/image22_hu0438edd1eab289eec50e897230a2b1bc_37996_bc314b7bc36b6de1b916ce411298c944.webp 760w,
+               /project/stepik/image_part1/image22_hu0438edd1eab289eec50e897230a2b1bc_37996_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/stepik/image_part1/image22_hu0438edd1eab289eec50e897230a2b1bc_37996_f449736ea3bc9f5a76cdca4bf276fdda.webp&#34;
+               width=&#34;716&#34;
+               height=&#34;510&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;h2 id=&#34;второй-модуль-защита-пктелефона&#34;&gt;Второй модуль &amp;ldquo;Защита ПК/Телефона&amp;rdquo;&lt;/h2&gt;
+&lt;h3 id=&#34;шифрование-диска&#34;&gt;Шифрование диска&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#figure-p2_fig1&#34;&gt;Вопрос 1&lt;/a&gt; Можно ли зашифровать загрузочный сектор диска&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ответ: &lt;em&gt;Да&lt;/em&gt;.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-p2_fig2&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/stepik/image_part2/image1_hu046fd8a17ab48e3fe4c5f2baeff2b095_30927_b36537e3e0c0bc8b429dc1071e36dddc.webp 400w,
+               /project/stepik/image_part2/image1_hu046fd8a17ab48e3fe4c5f2baeff2b095_30927_730c02549ccaf60db0cac0993219a4f9.webp 760w,
+               /project/stepik/image_part2/image1_hu046fd8a17ab48e3fe4c5f2baeff2b095_30927_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/stepik/image_part2/image1_hu046fd8a17ab48e3fe4c5f2baeff2b095_30927_b36537e3e0c0bc8b429dc1071e36dddc.webp&#34;
+               width=&#34;533&#34;
+               height=&#34;512&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#figure-p2_fig2&#34;&gt;Вопрос 2&lt;/a&gt; Шифрование диска основано на&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ответ: &lt;em&gt;симметричном шифровании&lt;/em&gt;.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-p2_fig2&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/stepik/image_part2/image2_hu3e6dbd5bf9d764f3e95ae55a5abd3da5_38189_5ea89bb1915b1611d3bda4e35e377419.webp 400w,
+               /project/stepik/image_part2/image2_hu3e6dbd5bf9d764f3e95ae55a5abd3da5_38189_6771e9721a393967aa3a3bc3d9c629e9.webp 760w,
+               /project/stepik/image_part2/image2_hu3e6dbd5bf9d764f3e95ae55a5abd3da5_38189_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/stepik/image_part2/image2_hu3e6dbd5bf9d764f3e95ae55a5abd3da5_38189_5ea89bb1915b1611d3bda4e35e377419.webp&#34;
+               width=&#34;486&#34;
+               height=&#34;552&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#figure-p2_fig3&#34;&gt;Вопрос 3&lt;/a&gt; С помощью каких программ можно зашифровать жесткий диск?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ответ: &lt;em&gt;BitLocker и VeraCrypt&lt;/em&gt;.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-p2_fig3&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/stepik/image_part2/image3_hued1aec55462b31d1beccf1eb35011835_58854_c52fbb47d664655a29818e03a10db21b.webp 400w,
+               /project/stepik/image_part2/image3_hued1aec55462b31d1beccf1eb35011835_58854_768abc5e5b0f03e87d3984e81cd908e1.webp 760w,
+               /project/stepik/image_part2/image3_hued1aec55462b31d1beccf1eb35011835_58854_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/stepik/image_part2/image3_hued1aec55462b31d1beccf1eb35011835_58854_c52fbb47d664655a29818e03a10db21b.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;545&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;h3 id=&#34;пароли&#34;&gt;Пароли&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#figure-p2_fig4&#34;&gt;Вопрос 1&lt;/a&gt; Какие пароли можно отнести с стойким?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ответ: &lt;em&gt;UQr9@j4!S$&lt;/em&gt;.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-p2_fig4&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/stepik/image_part2/image4_hube77226c2102610d291492ec71b11c7c_35653_7a8ad13cf0abc5874ec51a05c9ff2f94.webp 400w,
+               /project/stepik/image_part2/image4_hube77226c2102610d291492ec71b11c7c_35653_8a1b1455ef260d9f9c3632eaee32f0e0.webp 760w,
+               /project/stepik/image_part2/image4_hube77226c2102610d291492ec71b11c7c_35653_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/stepik/image_part2/image4_hube77226c2102610d291492ec71b11c7c_35653_7a8ad13cf0abc5874ec51a05c9ff2f94.webp&#34;
+               width=&#34;437&#34;
+               height=&#34;543&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#figure-p2_fig5&#34;&gt;Вопрос 2&lt;/a&gt; Где безопасно хранить пароли?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ответ: &lt;em&gt;В менеджерах паролей&lt;/em&gt;.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-p2_fig5&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/stepik/image_part2/image5_huc2d0053c7ce31a5d91400f5a6e5adf53_41635_f045f4d109eae5d871d2b7ee9d62604b.webp 400w,
+               /project/stepik/image_part2/image5_huc2d0053c7ce31a5d91400f5a6e5adf53_41635_78ffe05921c66ee20fa398029827bfbd.webp 760w,
+               /project/stepik/image_part2/image5_huc2d0053c7ce31a5d91400f5a6e5adf53_41635_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/stepik/image_part2/image5_huc2d0053c7ce31a5d91400f5a6e5adf53_41635_f045f4d109eae5d871d2b7ee9d62604b.webp&#34;
+               width=&#34;440&#34;
+               height=&#34;585&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#figure-p2_fig6&#34;&gt;Вопрос 3&lt;/a&gt; Зачем нужна капча?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ответ: &lt;em&gt;Для защиты от автоматизированных атак, направленных на получение несанкционированного доступа&lt;/em&gt;.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-p2_fig6&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/stepik/image_part2/image6_hu9e83332def13ee62434b7c0312574b15_49642_f9474e961c9dad6e7e3afa9d92d8faf0.webp 400w,
+               /project/stepik/image_part2/image6_hu9e83332def13ee62434b7c0312574b15_49642_207716f8be2cd6803c13c7a93b6e5750.webp 760w,
+               /project/stepik/image_part2/image6_hu9e83332def13ee62434b7c0312574b15_49642_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/stepik/image_part2/image6_hu9e83332def13ee62434b7c0312574b15_49642_f9474e961c9dad6e7e3afa9d92d8faf0.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;403&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#figure-p2_fig7&#34;&gt;Вопрос 4&lt;/a&gt; Для чего применяется хэширование паролей?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ответ: &lt;em&gt;Для того, чтобы не хранить пароли на сервере в открытом виде.&lt;/em&gt;.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-p2_fig7&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/stepik/image_part2/image7_hu385dd5bea7fadd6de3545e311f30b6f3_50926_74ce0cf8b03885c94f175c8ae10cbab1.webp 400w,
+               /project/stepik/image_part2/image7_hu385dd5bea7fadd6de3545e311f30b6f3_50926_87e47187b88df983cac3270d7ebf75b2.webp 760w,
+               /project/stepik/image_part2/image7_hu385dd5bea7fadd6de3545e311f30b6f3_50926_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/stepik/image_part2/image7_hu385dd5bea7fadd6de3545e311f30b6f3_50926_74ce0cf8b03885c94f175c8ae10cbab1.webp&#34;
+               width=&#34;655&#34;
+               height=&#34;546&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#figure-p2_fig8&#34;&gt;Вопрос 5&lt;/a&gt; Поможет ли соль для улучшения стойкости паролей к атаке перебором, если злоумышленник получил доступ к серверу?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ответ: &lt;em&gt;Нет&lt;/em&gt;.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-p2_fig8&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/stepik/image_part2/image8_hu37ad614bb0c5b519525ce5c311478f83_38965_b9fb3e4591904d012002dfeb68fb41c9.webp 400w,
+               /project/stepik/image_part2/image8_hu37ad614bb0c5b519525ce5c311478f83_38965_a12dcd98b3c42ba128c1660cf4d29c58.webp 760w,
+               /project/stepik/image_part2/image8_hu37ad614bb0c5b519525ce5c311478f83_38965_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/stepik/image_part2/image8_hu37ad614bb0c5b519525ce5c311478f83_38965_b9fb3e4591904d012002dfeb68fb41c9.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;314&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#figure-p2_fig9&#34;&gt;Вопрос 6&lt;/a&gt; Какие меры защищают от утечек данных атакой перебором?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ответ: &lt;em&gt;разные пароли на всех сайтах, периодическая смена паролей, сложные(=длинные) пароли, капча&lt;/em&gt;.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-p2_fig9&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/stepik/image_part2/image9_hu5cbc38e5863d8baada55dd9d08a75fbd_61500_c0c60ec188c03a9eb98bf716da488b8d.webp 400w,
+               /project/stepik/image_part2/image9_hu5cbc38e5863d8baada55dd9d08a75fbd_61500_8e5ef4d6f557a9cdd1973370420d668b.webp 760w,
+               /project/stepik/image_part2/image9_hu5cbc38e5863d8baada55dd9d08a75fbd_61500_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/stepik/image_part2/image9_hu5cbc38e5863d8baada55dd9d08a75fbd_61500_c0c60ec188c03a9eb98bf716da488b8d.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;505&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;h3 id=&#34;фишинг&#34;&gt;Фишинг&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#figure-p2_fig10&#34;&gt;Вопрос 1&lt;/a&gt; Какие из следующих ссылок являются фишинговыми?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ответ: &lt;em&gt;&lt;a href=&#34;https://online.sberbank.wix.ru/CSAFront/index.do&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://online.sberbank.wix.ru/CSAFront/index.do&lt;/a&gt; (вход в Сбербанк.Онлайн) и &lt;a href=&#34;https://passport.yandex.ucoz.ru/auth?origin=home_desktop_ru&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://passport.yandex.ucoz.ru/auth?origin=home_desktop_ru&lt;/a&gt; (вход в аккаунт Яндекс)&lt;/em&gt;.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-p2_fig10&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/stepik/image_part2/image10_huab8112e1c9fa9a7ffa8cdc2aa745bd1e_87631_9fe5aceed9458d8f6c38e1762411e068.webp 400w,
+               /project/stepik/image_part2/image10_huab8112e1c9fa9a7ffa8cdc2aa745bd1e_87631_fa3043127d9a30ac79b30fdb8a8b1f89.webp 760w,
+               /project/stepik/image_part2/image10_huab8112e1c9fa9a7ffa8cdc2aa745bd1e_87631_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/stepik/image_part2/image10_huab8112e1c9fa9a7ffa8cdc2aa745bd1e_87631_9fe5aceed9458d8f6c38e1762411e068.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;498&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#figure-p2_fig11&#34;&gt;Вопрос 2&lt;/a&gt; Может ли фишинговый имейл прийти от знакомого адреса?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ответ: &lt;em&gt;Да&lt;/em&gt;.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-p2_fig11&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/stepik/image_part2/image11_hua3b2e6c4a1635e3d07ae7b2cbfc060b7_28024_f99f5a5ff3affd7117f495aadb0c22cf.webp 400w,
+               /project/stepik/image_part2/image11_hua3b2e6c4a1635e3d07ae7b2cbfc060b7_28024_6853bd4ca0950fef7d339f4f3abe3434.webp 760w,
+               /project/stepik/image_part2/image11_hua3b2e6c4a1635e3d07ae7b2cbfc060b7_28024_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/stepik/image_part2/image11_hua3b2e6c4a1635e3d07ae7b2cbfc060b7_28024_f99f5a5ff3affd7117f495aadb0c22cf.webp&#34;
+               width=&#34;632&#34;
+               height=&#34;494&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;h3 id=&#34;вирусы-примеры&#34;&gt;Вирусы. Примеры&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#figure-p2_fig12&#34;&gt;Вопрос 1&lt;/a&gt; Email Спуфинг &amp;ndash; это&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ответ: &lt;em&gt;подмена адреса отправителя в имейлах&lt;/em&gt;.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-p2_fig12&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/stepik/image_part2/image12_hub23bc16838c47783b04a92e029bd8f23_39269_092a4e2e59a55081b2f147007a5b57a8.webp 400w,
+               /project/stepik/image_part2/image12_hub23bc16838c47783b04a92e029bd8f23_39269_e7edbe793cebfd5f43849a90bc3ad9d3.webp 760w,
+               /project/stepik/image_part2/image12_hub23bc16838c47783b04a92e029bd8f23_39269_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/stepik/image_part2/image12_hub23bc16838c47783b04a92e029bd8f23_39269_092a4e2e59a55081b2f147007a5b57a8.webp&#34;
+               width=&#34;445&#34;
+               height=&#34;545&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#figure-p2_fig13&#34;&gt;Вопрос 2&lt;/a&gt; Вирус-троян&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ответ: &lt;em&gt;маскируется под легитимную программу&lt;/em&gt;.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-p2_fig13&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/stepik/image_part2/image13_huc248b4211f0191ffba03b5f426c5cbe0_45588_6bc219f3868d7267b2e9918d9b130533.webp 400w,
+               /project/stepik/image_part2/image13_huc248b4211f0191ffba03b5f426c5cbe0_45588_bccb6a209c8b3a65426791aeb5ce7f31.webp 760w,
+               /project/stepik/image_part2/image13_huc248b4211f0191ffba03b5f426c5cbe0_45588_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/stepik/image_part2/image13_huc248b4211f0191ffba03b5f426c5cbe0_45588_6bc219f3868d7267b2e9918d9b130533.webp&#34;
+               width=&#34;632&#34;
+               height=&#34;541&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;h3 id=&#34;безопасность-мессенджеров&#34;&gt;Безопасность мессенджеров&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#figure-p2_fig14&#34;&gt;Вопрос 1&lt;/a&gt; На каком этапе формируется ключ шифрования в протоколе мессенджеров Signal?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ответ: &lt;em&gt;при генерации первого сообщения стороной-отправителем&lt;/em&gt;.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-p2_fig14&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/stepik/image_part2/image14_huadffe19e5b22cd9464cd27a48fcb1c22_51258_1a4cefeeb42dcd4787ebff22ed2e0e02.webp 400w,
+               /project/stepik/image_part2/image14_huadffe19e5b22cd9464cd27a48fcb1c22_51258_d18b22bf85bc4faaa61aa663dca2e87b.webp 760w,
+               /project/stepik/image_part2/image14_huadffe19e5b22cd9464cd27a48fcb1c22_51258_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/stepik/image_part2/image14_huadffe19e5b22cd9464cd27a48fcb1c22_51258_1a4cefeeb42dcd4787ebff22ed2e0e02.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;542&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#figure-p2_fig15&#34;&gt;Вопрос 2&lt;/a&gt; Суть сквозного шифрования состоит в том, что&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ответ: &lt;em&gt;сообщения передаются по узлам связи (серверам) в зашифрованном виде&lt;/em&gt;.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-p2_fig15&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/stepik/image_part2/image15_hu2b7c2c21898adbdacf4a78ffd3e8c20d_58532_60defaaa593372973232fa842b6722cc.webp 400w,
+               /project/stepik/image_part2/image15_hu2b7c2c21898adbdacf4a78ffd3e8c20d_58532_eea74d78c57426b29ec67cce2be1a872.webp 760w,
+               /project/stepik/image_part2/image15_hu2b7c2c21898adbdacf4a78ffd3e8c20d_58532_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/stepik/image_part2/image15_hu2b7c2c21898adbdacf4a78ffd3e8c20d_58532_60defaaa593372973232fa842b6722cc.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;566&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;h2 id=&#34;третий-модуль-криптография-на-практике&#34;&gt;Третий модуль &amp;ldquo;Криптография на практике&amp;rdquo;&lt;/h2&gt;
+&lt;h3 id=&#34;введение-в-криптографию&#34;&gt;Введение в криптографию&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#figure-p3_fig1&#34;&gt;Вопрос 1&lt;/a&gt; В асимметричных криптографических примитивах:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ответ: &lt;em&gt;обе стороны имеют пару ключей&lt;/em&gt;.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-p3_fig1&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/stepik/image_part3/image1_hu1443bbc3ce53264d95ef4ea1882c5cf2_55772_d6f6a0e5e3bdada30b92d86b858e3b25.webp 400w,
+               /project/stepik/image_part3/image1_hu1443bbc3ce53264d95ef4ea1882c5cf2_55772_34de1fde4e5027f06e0218a5236274b4.webp 760w,
+               /project/stepik/image_part3/image1_hu1443bbc3ce53264d95ef4ea1882c5cf2_55772_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/stepik/image_part3/image1_hu1443bbc3ce53264d95ef4ea1882c5cf2_55772_d6f6a0e5e3bdada30b92d86b858e3b25.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;456&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#figure-p3_fig2&#34;&gt;Вопрос 2&lt;/a&gt; Криптографическая хэш-функция:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ответ: &lt;em&gt;эффективно вычисляется, дает на выходе фиксированное число бит независимо от объема входных данных, стойкая к коллизиям&lt;/em&gt;.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-p3_fig2&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/stepik/image_part3/image2_hua6a759a8fac225b849f253ae1c8be384_69047_a62a1f6d47b221cda180868eefd11321.webp 400w,
+               /project/stepik/image_part3/image2_hua6a759a8fac225b849f253ae1c8be384_69047_0d520929087be34c7b9ce6fad26d058b.webp 760w,
+               /project/stepik/image_part3/image2_hua6a759a8fac225b849f253ae1c8be384_69047_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/stepik/image_part3/image2_hua6a759a8fac225b849f253ae1c8be384_69047_a62a1f6d47b221cda180868eefd11321.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;543&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#figure-p3_fig3&#34;&gt;Вопрос 3&lt;/a&gt; К алгоритмам цифровой подписи относятся:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ответ: *RSA, ECDSA, ГОСТ Р 34.10-2012 *.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-p3_fig3&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/stepik/image_part3/image3_hu266af4d6cd7a86c075fb9dd17ded9d62_55400_df71ecb9077bd718ede9d2050249bf32.webp 400w,
+               /project/stepik/image_part3/image3_hu266af4d6cd7a86c075fb9dd17ded9d62_55400_611fff4f720275009770d974fa029840.webp 760w,
+               /project/stepik/image_part3/image3_hu266af4d6cd7a86c075fb9dd17ded9d62_55400_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/stepik/image_part3/image3_hu266af4d6cd7a86c075fb9dd17ded9d62_55400_df71ecb9077bd718ede9d2050249bf32.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;606&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#figure-p3_fig4&#34;&gt;Вопрос 4&lt;/a&gt; Код аутентификации сообщения относится к:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ответ: &lt;em&gt;симметричным примитивам&lt;/em&gt;.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-p3_fig4&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/stepik/image_part3/image4_hu05a9da94fa634032b054dd832e208160_30246_1131ffe8ef69bb18d38b8e4c391122a5.webp 400w,
+               /project/stepik/image_part3/image4_hu05a9da94fa634032b054dd832e208160_30246_666921f69898a9f25d2932f0a025902d.webp 760w,
+               /project/stepik/image_part3/image4_hu05a9da94fa634032b054dd832e208160_30246_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/stepik/image_part3/image4_hu05a9da94fa634032b054dd832e208160_30246_1131ffe8ef69bb18d38b8e4c391122a5.webp&#34;
+               width=&#34;448&#34;
+               height=&#34;458&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#figure-p3_fig5&#34;&gt;Вопрос 5&lt;/a&gt; Обмен ключам Диффи-Хэллмана - это:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ответ: &lt;em&gt;асимметричный примитив генерации общего секретного ключа&lt;/em&gt;.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-p3_fig5&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/stepik/image_part3/image5_hudf6ef508374cd90ae39b09599cfbad78_51673_af809890418ad699ac566711632dabb7.webp 400w,
+               /project/stepik/image_part3/image5_hudf6ef508374cd90ae39b09599cfbad78_51673_1d5d98efb7e06730274c6dc3738fec61.webp 760w,
+               /project/stepik/image_part3/image5_hudf6ef508374cd90ae39b09599cfbad78_51673_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/stepik/image_part3/image5_hudf6ef508374cd90ae39b09599cfbad78_51673_af809890418ad699ac566711632dabb7.webp&#34;
+               width=&#34;617&#34;
+               height=&#34;532&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;h3 id=&#34;цифровая-подпись&#34;&gt;Цифровая подпись&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#figure-p3_fig6&#34;&gt;Вопрос 1&lt;/a&gt; Протокол электронной цифровой подписи относится к:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ответ: &lt;em&gt;протоколам с публичным (или открытым) ключом&lt;/em&gt;.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-p3_fig6&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/stepik/image_part3/image6_hude5761d2d6ab6afb59c2f1bc159e9da6_36011_6d8920d3fcb9f9195a8bd658c44316cc.webp 400w,
+               /project/stepik/image_part3/image6_hude5761d2d6ab6afb59c2f1bc159e9da6_36011_7faf7ea2007819744c2be59c8902576e.webp 760w,
+               /project/stepik/image_part3/image6_hude5761d2d6ab6afb59c2f1bc159e9da6_36011_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/stepik/image_part3/image6_hude5761d2d6ab6afb59c2f1bc159e9da6_36011_6d8920d3fcb9f9195a8bd658c44316cc.webp&#34;
+               width=&#34;532&#34;
+               height=&#34;495&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#figure-p3_fig7&#34;&gt;Вопрос 2&lt;/a&gt; Алгоритм верификации электронной цифровой подписи требует на вход:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ответ: &lt;em&gt;подпись, открытый ключ, сообщение&lt;/em&gt;.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-p3_fig7&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/stepik/image_part3/image7_hu7648de322e8a60966c34b2d593680d5d_44582_db1efd1e83a3f9409493dbce4abcc8ea.webp 400w,
+               /project/stepik/image_part3/image7_hu7648de322e8a60966c34b2d593680d5d_44582_d45e74d22d600bb51fc0f1d1c33054f5.webp 760w,
+               /project/stepik/image_part3/image7_hu7648de322e8a60966c34b2d593680d5d_44582_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/stepik/image_part3/image7_hu7648de322e8a60966c34b2d593680d5d_44582_db1efd1e83a3f9409493dbce4abcc8ea.webp&#34;
+               width=&#34;700&#34;
+               height=&#34;555&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#figure-p3_fig8&#34;&gt;Вопрос 3&lt;/a&gt; Электронная цифровая подпись не обеспечивает:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ответ: &lt;em&gt;конфиденциальность&lt;/em&gt;.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-p3_fig8&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/stepik/image_part3/image8_huc2434f48de8b3b45ebc7a027d8796c39_37682_539a842050d23e7f989bb2ba59bd168a.webp 400w,
+               /project/stepik/image_part3/image8_huc2434f48de8b3b45ebc7a027d8796c39_37682_772be37fd96a5a946d100535dea87aea.webp 760w,
+               /project/stepik/image_part3/image8_huc2434f48de8b3b45ebc7a027d8796c39_37682_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/stepik/image_part3/image8_huc2434f48de8b3b45ebc7a027d8796c39_37682_539a842050d23e7f989bb2ba59bd168a.webp&#34;
+               width=&#34;498&#34;
+               height=&#34;539&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#figure-p3_fig9&#34;&gt;Вопрос 4&lt;/a&gt; Какой тип сертификата электронной подписи понадобится для отправки налоговой отчетности в ФНС?:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ответ: &lt;em&gt;усиленная квалифицированная&lt;/em&gt;.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-p3_fig9&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/stepik/image_part3/image9_huac131598025b25d28c17b565e4a6484f_45449_55170d67ebb126c14c6e8fa87252eaef.webp 400w,
+               /project/stepik/image_part3/image9_huac131598025b25d28c17b565e4a6484f_45449_154470a6c31899ae587e7b9b306ca96b.webp 760w,
+               /project/stepik/image_part3/image9_huac131598025b25d28c17b565e4a6484f_45449_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/stepik/image_part3/image9_huac131598025b25d28c17b565e4a6484f_45449_55170d67ebb126c14c6e8fa87252eaef.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;398&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#figure-p3_fig10&#34;&gt;Вопрос 5&lt;/a&gt; В какой организации вы можете получить квалифицированный сертификат ключа проверки электронной подписи?:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ответ: &lt;em&gt;в удостоверяющем (сертификационном) центре&lt;/em&gt;.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-p3_fig10&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/stepik/image_part3/image10_hube1105f35b3f3167da4333d9bd47aa6f_61727_0a45ffd81b4e0ec04dce611407f790c2.webp 400w,
+               /project/stepik/image_part3/image10_hube1105f35b3f3167da4333d9bd47aa6f_61727_c1ce8856a5da06797c426a74072212ae.webp 760w,
+               /project/stepik/image_part3/image10_hube1105f35b3f3167da4333d9bd47aa6f_61727_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/stepik/image_part3/image10_hube1105f35b3f3167da4333d9bd47aa6f_61727_0a45ffd81b4e0ec04dce611407f790c2.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;386&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;h3 id=&#34;электронные-платежи&#34;&gt;Электронные платежи&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#figure-p3_fig11&#34;&gt;Вопрос 1&lt;/a&gt; Выберите из списка все платежные системы.:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ответ: &lt;em&gt;MasterCard, МИР&lt;/em&gt;.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-p3_fig11&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/stepik/image_part3/image11_hu0447c8786dad53700121488baf8e5863_58829_760f10a7ae09fa036046c76d43229082.webp 400w,
+               /project/stepik/image_part3/image11_hu0447c8786dad53700121488baf8e5863_58829_eeb99be96cc6a1525a80b70e76f6129b.webp 760w,
+               /project/stepik/image_part3/image11_hu0447c8786dad53700121488baf8e5863_58829_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/stepik/image_part3/image11_hu0447c8786dad53700121488baf8e5863_58829_760f10a7ae09fa036046c76d43229082.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;635&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#figure-p3_fig12&#34;&gt;Вопрос 2&lt;/a&gt; Примером многофакторной аутентификации является:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ответ: *комбинация проверка пароля + код в sms сообщении, комбинация код в sms сообщении + отпечаток пальца *.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-p3_fig12&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/stepik/image_part3/image12_hu6388534b14e105968a87a66759c11017_68604_e65f106067b39dc89c5965478abef7b7.webp 400w,
+               /project/stepik/image_part3/image12_hu6388534b14e105968a87a66759c11017_68604_09d8c029a9011f2ff741e508c2cda4be.webp 760w,
+               /project/stepik/image_part3/image12_hu6388534b14e105968a87a66759c11017_68604_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/stepik/image_part3/image12_hu6388534b14e105968a87a66759c11017_68604_e65f106067b39dc89c5965478abef7b7.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;579&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#figure-p3_fig13&#34;&gt;Вопрос 3&lt;/a&gt; При онлайн платежах сегодня используется:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ответ: &lt;em&gt;многофакторная аутентификация покупателя перед банком-эмитентом&lt;/em&gt;.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-p3_fig13&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/stepik/image_part3/image13_hu0f355b4d173f0412267e63e7163b001e_57336_6fe9d3a2e28bac46f48f7aba3e473a43.webp 400w,
+               /project/stepik/image_part3/image13_hu0f355b4d173f0412267e63e7163b001e_57336_c120bbfdae367f189a7c737bfde579a3.webp 760w,
+               /project/stepik/image_part3/image13_hu0f355b4d173f0412267e63e7163b001e_57336_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/stepik/image_part3/image13_hu0f355b4d173f0412267e63e7163b001e_57336_6fe9d3a2e28bac46f48f7aba3e473a43.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;524&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;h3 id=&#34;блокчейн&#34;&gt;Блокчейн&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#figure-p3_fig14&#34;&gt;Вопрос 1&lt;/a&gt; Какое свойство криптографической хэш-функции используется в доказательстве работы?:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ответ: &lt;em&gt;сложность нахождения прообраза&lt;/em&gt;.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-p3_fig14&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/stepik/image_part3/image14_huc99b47a2a1bf04d0dd9fbaca7ebdb58b_50886_3668583d6122dd47428d2b591e787185.webp 400w,
+               /project/stepik/image_part3/image14_huc99b47a2a1bf04d0dd9fbaca7ebdb58b_50886_8e841806ac63664a88bdf0697a482302.webp 760w,
+               /project/stepik/image_part3/image14_huc99b47a2a1bf04d0dd9fbaca7ebdb58b_50886_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/stepik/image_part3/image14_huc99b47a2a1bf04d0dd9fbaca7ebdb58b_50886_3668583d6122dd47428d2b591e787185.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;497&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#figure-p3_fig15&#34;&gt;Вопрос 2&lt;/a&gt; Консенсус в некоторых системах блокчейн обладает свойствами:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ответ: &lt;em&gt;постоянства, консенсус, живучесть, открытость&lt;/em&gt;.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-p3_fig15&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/stepik/image_part3/image15_hu7d50bd8aeb15404d077b923f6a1896fe_55868_eb08a3808dc8ae20a7f09e1e6e9db377.webp 400w,
+               /project/stepik/image_part3/image15_hu7d50bd8aeb15404d077b923f6a1896fe_55868_01d3e14ad446184b23db812ab8a27ccb.webp 760w,
+               /project/stepik/image_part3/image15_hu7d50bd8aeb15404d077b923f6a1896fe_55868_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/stepik/image_part3/image15_hu7d50bd8aeb15404d077b923f6a1896fe_55868_eb08a3808dc8ae20a7f09e1e6e9db377.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;554&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#figure-p3_fig16&#34;&gt;Вопрос 3&lt;/a&gt; Секретные ключи какого криптографического примитива хранят участники блокчейна?:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ответ: &lt;em&gt;цифровая подпись&lt;/em&gt;.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-p3_fig16&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/stepik/image_part3/image16_hu12231fbca2d1df46feab3e37a3eb6fa3_41873_820c2e1394d74e3639aa417a309f6202.webp 400w,
+               /project/stepik/image_part3/image16_hu12231fbca2d1df46feab3e37a3eb6fa3_41873_982a98985ea05ff71a7ca0a40f6e9eed.webp 760w,
+               /project/stepik/image_part3/image16_hu12231fbca2d1df46feab3e37a3eb6fa3_41873_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/stepik/image_part3/image16_hu12231fbca2d1df46feab3e37a3eb6fa3_41873_820c2e1394d74e3639aa417a309f6202.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;498&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
 </description>
-    </item>
-    
-    <item>
-      <title>External Project</title>
-      <link>https://example.com/project/external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/external-project/</guid>
-      <description></description>
     </item>
     
   </channel>
